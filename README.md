@@ -71,18 +71,6 @@ The same tool has one-click presets for other upload limits: **[SquishyFile Vide
 
 ---
 
-## Video Tools
-
-| Site | What it does |
-|---|---|
-| [SquishyFile Video to MP3](https://squishyfile.com/video-to-mp3) 🔒🆓🚫 | Extract audio from any video |
-| [SquishyFile MP4 to GIF](https://squishyfile.com/mp4-to-gif) 🔒🆓🚫 | Turn clips into GIFs for chats and memes |
-| [SquishyFile Video to Text](https://squishyfile.com/video-to-text) 🔒🆓🚫 | Transcribe video to text in the browser |
-| [SquishyFile Video Upscaler](https://squishyfile.com/video-upscaler) 🔒🆓🚫 | Upscale low-resolution footage |
-| [SquishyFile Frame Extractor](https://squishyfile.com/frame-extractor) 🔒🆓🚫 | Save frames from a video as images |
-
----
-
 ## Contributing
 
 Know a site that belongs here? Open a PR or an issue. Rules:
